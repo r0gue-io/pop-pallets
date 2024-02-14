@@ -8,7 +8,7 @@ repository = "https://github.com/r0guelabs/pop-pallets.git"
 resolver = "2"
 
 members = [
-	"pallets/template",
+	"pallets/*",
 ]
 
 [workspace.lints.rust]
